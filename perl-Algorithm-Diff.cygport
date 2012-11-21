@@ -1,8 +1,8 @@
-CPAN_AUTHOR=nedkonz
+CPAN_AUTHOR=tyemq
 inherit perl
 
 NAME="perl-Algorithm-Diff"
-VERSION=1.15
+VERSION=1.1902
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl diff module"
